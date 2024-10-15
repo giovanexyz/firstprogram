@@ -5,3 +5,4 @@
 void main(){
     //imprime 'oi' na tela
     printf ('oi');
+}
